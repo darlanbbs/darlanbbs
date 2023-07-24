@@ -6,6 +6,7 @@ Desenvolvedor FrontEnd fanático por animes e jogos apaixonado por programação
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=darlanbbs&theme=tokyonight&hide_border=false)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darlanbbs&layout=compact)](https://github.com/darlanbbs/github-readme-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=darlanbbs&icon=2&color=11)](https://visitcount.itsvg.in)
