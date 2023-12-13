@@ -6,7 +6,7 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
-<h2 align="left">:hammer_and_wrench: Tecnologias que eu uso:</h2>
+<h2 align="left">🛠️: Tecnologias que eu uso:</h2>
 <p align="left">
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
@@ -38,7 +38,7 @@
 </div>
 
 
-<h2 align="left">:heart: Me encontre em:</h2>
+<h2 align="left">🔗: Me encontre em:</h2>
 <a href="https://www.linkedin.com/in/darlan-bomfim-903582260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href="https://www.linkedin.com/in/darlan-bomfim-903582260/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23E34F26?style=for-the-badge" target="_blank"></a>   
 
